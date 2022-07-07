@@ -26,17 +26,18 @@ h3 {
 li {
   font-size:larger;
   text-align: center;
-  color:black
-  font-style:oblique
+  color:black;
+  font-style:normal;
 }
 
 a {
+  font-size: larger;
   font-weight: bold;
-  color:cyan
+  color: blue;
 }
 
 a:hover {
-  background-color:blue;
+  background-color: lightgreen;
 }
 
 p {
