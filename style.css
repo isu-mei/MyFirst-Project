@@ -31,13 +31,13 @@ li {
 }
 
 a {
-  font-size: larger;
+  font-size: 25px;
   font-weight: bold;
-  color: blue;
+  color: limegreen;
 }
 
 a:hover {
-  background-color: lightgreen;
+  background-color: lightcyan;
 }
 
 p {
